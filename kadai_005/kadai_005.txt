@@ -1,0 +1,49 @@
+ cd C:/Users/panda
+
+panda@oui-884 MINGW64 ~ (main)
+$ mkdir challenge
+
+panda@oui-884 MINGW64 ~ (main)
+$ mkdir git_challenge
+
+panda@oui-884 MINGW64 ~ (main)
+$ cd git_challenge
+
+panda@oui-884 MINGW64 ~/git_challenge
+$ git init
+Initialized empty Git repository in C:/Users/panda/git_challenge/.git/
+
+panda@oui-884 MINGW64 ~/git_challenge (main)
+$ git add hello_world.txt
+
+panda@oui-884 MINGW64 ~/git_challenge (main)
+$ git add hello_world.txt
+
+panda@oui-884 MINGW64 ~/git_challenge (main)
+$ git commit -m "hello_world.txtを追加"
+[main b214857] hello_world.txtを追加
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+panda@oui-884 MINGW64 ~/git_challenge (main)
+$ git add hello_world.txt
+
+panda@oui-884 MINGW64 ~/git_challenge (main)
+$ git commit -m "日本語訳を追記"
+[main ac0a2fa] 日本語訳を追記
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+panda@oui-884 MINGW64 ~/git_challenge (main)
+$ cd C:/Users/panda
+
+panda@oui-884 MINGW64 ~
+$ mkdir kadai_005
+
+panda@oui-884 MINGW64 ~
+$ cd kadai_005
+
+panda@oui-884 MINGW64 ~/kadai_005
+$ git init
+Initialized empty Git repository in C:/Users/panda/kadai_005/.git/
+
+panda@oui-884 MINGW64 ~/kadai_005 (main)
+$ git add kadai_005.txt
